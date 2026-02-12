@@ -1,0 +1,30 @@
+{
+  "name": "remotecto-plugins",
+  "owner": {
+    "name": "RemoteCTO",
+    "email": "edward@bannermedia.ltd"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by RemoteCTO"
+  },
+  "plugins": [
+    {
+      "name": "timelog",
+      "source": {
+        "source": "github",
+        "repo": "RemoteCTO/claude-code-timelog"
+      },
+      "description": "Automatic time tracking for Claude Code sessions. Logs project, ticket, and prompt data as JSONL for timesheet reports.",
+      "version": "0.1.0",
+      "author": {
+        "name": "RemoteCTO"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "time-tracking",
+        "timesheet",
+        "logging"
+      ]
+    }
+  ]
+}

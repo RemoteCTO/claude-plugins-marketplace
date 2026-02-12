@@ -15,7 +15,7 @@
         "repo": "RemoteCTO/claude-code-timelog"
       },
       "description": "Automatic time tracking for Claude Code sessions. Logs project, ticket, and prompt data as JSONL for timesheet reports.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "author": {
         "name": "RemoteCTO"
       },

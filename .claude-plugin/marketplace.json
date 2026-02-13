@@ -25,6 +25,25 @@
         "timesheet",
         "logging"
       ]
+    },
+    {
+      "name": "seamless-claude",
+      "source": {
+        "source": "github",
+        "repo": "RemoteCTO/seamless-claude"
+      },
+      "description": "Zero-downtime compaction for Claude Code. Pre-compacts sessions in the background so you never wait for context summarisation.",
+      "version": "0.1.0",
+      "author": {
+        "name": "RemoteCTO"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "compaction",
+        "session-continuity",
+        "precompact",
+        "context-management"
+      ]
     }
   ]
 }

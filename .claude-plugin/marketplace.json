@@ -33,7 +33,7 @@
         "repo": "RemoteCTO/seamless-claude"
       },
       "description": "Zero-downtime compaction for Claude Code. Pre-compacts sessions in the background so you never wait for context summarisation.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
         "name": "RemoteCTO"
       },

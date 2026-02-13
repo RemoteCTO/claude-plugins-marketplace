@@ -31,7 +31,8 @@ Eliminates compaction downtime. Monitors context
 usage, fires background compaction early, and
 auto-resumes fresh sessions from the prepared
 summary. Includes `claude-resume` CLI for
-cross-session resume.
+cross-session resume and `claude-summarise` for
+summarising historical sessions.
 
 ```bash
 /plugin install seamless-claude
